@@ -186,11 +186,22 @@ Password for all demo accounts: `password123`
 
 ## Screenshots
 
-> _Add screenshots or a short screen recording here before submission._
+<img width="1917" height="862" alt="Customer front page" src="https://github.com/user-attachments/assets/f73212dc-aace-4cfc-9a5d-ddbc0059d283" />
 
-| Customer — Live Waiting | Staff — Dashboard |
-|---|---|
-| `![customer-live-waiting](./screenshots/live-waiting.png)` | `![staff-dashboard](./screenshots/staff-dashboard.png)` |
+<img width="1918" height="867" alt="Select a service" src="https://github.com/user-attachments/assets/811729d5-389f-466b-b2c8-849ba788d857" />
+
+<img width="1917" height="867" alt="Fill the details" src="https://github.com/user-attachments/assets/f5914b85-3d47-4d50-93f8-27d5e9e215d2" />
+
+<img width="1918" height="866" alt="Token generation" src="https://github.com/user-attachments/assets/4869c2f2-4ab4-419d-8310-0dd14bbbef84" />
+
+<img width="1917" height="870" alt="Live waiting" src="https://github.com/user-attachments/assets/c45f5784-6dba-48c2-a7b8-55c4b74a732f" />
+
+<img width="1917" height="867" alt="Customer Notification page" src="https://github.com/user-attachments/assets/a7494f3c-a4db-479a-9acf-6e5f0d4edcfa" />
+
+
+<img width="1917" height="868" alt="Staff login" src="https://github.com/user-attachments/assets/cc3740b8-6d30-4afe-ac8c-394065f67275" />
+
+<img width="1918" height="865" alt="Staff counter Page" src="https://github.com/user-attachments/assets/442ad6fd-12dc-42f6-b477-6cd89dd1ec5a" />
 
 ---
 
